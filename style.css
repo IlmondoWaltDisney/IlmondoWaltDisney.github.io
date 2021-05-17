@@ -1,0 +1,9 @@
+body{background-repeat:no-repeat;background-size:100% 100%;background-image:url("Animazione-intro-Dvd-Disney.gif")}
+.Titolo{font-style:bold;color:#dc143c;margin-left:20%;margin-right:20%;border-radius:10px;font-size:250%;padding:10px;background-color:#FFFF66;font-family:Monotype Corsiva}
+.menùlaterale{float:left;font-family:Monotype Corsiva;color:#FFFF66;margin-left:10px;border-radius:20px;width:250px;height:1200px;background-color:#dc143c}
+p{margin-bottom:5px}
+audio{display:none}
+.Walt Disney{background-color:white;color:black;font-family:Monotype Corsiva}
+.b{border-style:outset;border-radius:20px;margin-top:150px;margin-bottom:250px;width:156px;float:right}
+.immagine{float:right;border-style:outset;border-radius:20px;margin-right:-163px;margin-top:450px;width:156px}
+.immaginedue{float:right;border-style:outset;border-radius:20px;margin-right:-163px;margin-top:700px;width:156px}
